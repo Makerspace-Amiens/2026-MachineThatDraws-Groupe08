@@ -9,7 +9,7 @@ permalink: /
 hh
 Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape](https://modelembedder.net/embed?did=e895d617fa85e3b715768f5c&wvm=v&wvmid=efa0b0bc12fe522d979fde8b&eid=5e27dc6e7103b2e81bcf4c4e&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape](https://cad.onshape.com/documents/e895d617fa85e3b715768f5c/v/efa0b0bc12fe522d979fde8b/e/5e27dc6e7103b2e81bcf4c4e){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe08){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=e895d617fa85e3b715768f5c&wvm=v&wvmid=efa0b0bc12fe522d979fde8b&eid=5e27dc6e7103b2e81bcf4c4e&elementType=ASSEMBLY" frameborder="0"></iframe>
